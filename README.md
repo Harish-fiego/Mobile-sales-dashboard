@@ -9,8 +9,8 @@ The objective of this project is to transform raw sales data into meaningful bus
 ---
 
 ## 📷 Dashboard Preview
+![Uploading Screenshot 2026-07-23 111712.png…]()
 
-[![Mobile Sales Dashboard](Screenshots/dashboard.png)](Screenshots/dashboard.png)
 
 ---
 
