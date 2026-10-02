@@ -7,9 +7,9 @@ This project presents an interactive **Mobile Sales Dashboard** built using **Mi
 The objective of this project is to transform raw sales data into meaningful business insights through interactive visualizations, KPIs, filters, and data analysis.
 
 ---
-
 ## 📷 Dashboard Preview
-![Uploading Screenshot 2026-07-23 111712.png…]()
+
+![Mobile Sales Dashboard](Screenshot%202026-07-23%20111712.png)
 
 
 ---
